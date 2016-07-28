@@ -10,7 +10,7 @@ title: Hukill on the Digital Plains
 email: ghukill@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Fixing thoughts in static form.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://grahamhukill.com" # the base hostname & protocol for your site
 twitter_username: gshukill
 github_username:  ghukill
