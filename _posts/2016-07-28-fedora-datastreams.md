@@ -2,7 +2,7 @@
 layout: post
 title:  "Fedora Commons and Datastream Dis-Contents"
 date:   2016-07-29 15:00:00 -0400
-categories: fedora commons, plotly
+tags: fedora commons, plotly
 ---
 
 Had a good headscratcher recently.
