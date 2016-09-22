@@ -21,5 +21,5 @@ If, however, they do find their way to a blog posting, then consider me tickled.
 
 And here's a picture for good measure:
 
-![IMG_0620.JPG]({{site.baseurl}}/_posts/IMG_0620.JPG)
+![IMG_0620.JPG]({{site.baseurl}}/assets/images/IMG_0620.JPG)
 
