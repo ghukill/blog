@@ -1,6 +1,10 @@
 ---
-published: false
+layout: post
+title:  "Thermal Writing"
+date:   2016-09-22 10:48:00 -0400
+tags: writing, blogging, dissemination of information
 ---
+
 ## Thermal Couplers of Writing
 
 I'm penning this email with [prose.io](http://prose.io), as a foray into the worlds of an interface for a static, jekyll GitHub blog.  
