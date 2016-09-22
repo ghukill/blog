@@ -26,7 +26,7 @@ In a nutshell, my thinkign that the discussions would take those technologies an
 
 In no partiular order, as rusty notes and an even more shoddy memory conjur...
 
-* 
+### 
 
 
 
