@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 So I've been watching the EXCELLENT [Collections as Data 2016](http://digitalpreservation.gov/meetings/dcs16.html) [conference live stream](https://www.youtube.com/watch?v=8gcu2GQf7PI&feature=youtu.be) all morning, and it's really got the wheels going.
 
