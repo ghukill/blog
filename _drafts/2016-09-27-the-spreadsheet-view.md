@@ -21,7 +21,7 @@ We do our best here in the Digital Publishing and with our [Digital Collections]
 
 If I'm going to bury the lead, might as well throw one more blanket on the pile.  I've also been working on a connector between the [python ORM Peewee ](http://docs.peewee-orm.com/en/latest/) and [DataTables](https://datatables.net/) for another project (which I hope to share at some point).  As such, the scary efficient and well-understood mecahnics of a searchable, server-side processing spreadsheet has been on the brain.
 
-Here's the lead finally:
+So here's the lead:
 ## What about a spreadsheet-like view for digital collections?
 
 You get it all.  Thumbnails.  Titles.  Descriptions.  Metadata.  Filtering.  Sorting.  Speed.  Search results already as structured data.  Finesse.  Fireworks.  
