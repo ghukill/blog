@@ -1,5 +1,9 @@
 ---
 published: true
+layout: post
+title: The Spreadsheet View
+date: '2016-09-27 13:05:00 -0400'
+tags: 'digital collections, burying the lead, views'
 ---
 So I've been watching the EXCELLENT [Collections as Data 2016](http://digitalpreservation.gov/meetings/dcs16.html) [conference live stream](https://www.youtube.com/watch?v=8gcu2GQf7PI&feature=youtu.be) all morning, and it's really got the wheels going.
 
