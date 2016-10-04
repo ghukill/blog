@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: 'digital collections, iiif, workshops, conferences'
 layout: post
 title: Image Processing and Reunification Workshop
