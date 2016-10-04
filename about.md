@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Welcome!
+Welcome!  A blog by myself, Graham Hukill.
