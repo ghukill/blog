@@ -17,3 +17,6 @@ github_username:  ghukill
 
 # Build settings
 markdown: kramdown
+
+# pagination
+paginate: 1
