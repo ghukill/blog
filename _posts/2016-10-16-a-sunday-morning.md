@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 Wonders I, what the Sunday morning holds.  I know that I holds a cup of coffee in one hand (well, it's on the table as I type this).
