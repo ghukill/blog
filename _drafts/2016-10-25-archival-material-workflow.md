@@ -32,6 +32,8 @@ I've perhaps nestled myself too deeply in the weeds here, so lets zoom out.  We.
 
 Where, and how, does this happen?
 
-This occurs in an increasingly substantial corner of our adminitrative middleware, [Ouroboros](https://github.com/WSULib/ouroboros), called the "Ingest Workspace".  This Ingest Workspace, the intent of this blog post and which I've managed to bury pretty far down here, is where we take these 
+This occurs in an increasingly substantial corner of our adminitrative middleware, [Ouroboros](https://github.com/WSULib/ouroboros), called the "Ingest Workspace".  This Ingest Workspace, the intent of this blog post and which I've managed to bury pretty far down here, is where we take these collaborative bits of information and assimilate them into sensible digital objects we can ingest.  It's the green box in the diagram above.
+
+
 
 
