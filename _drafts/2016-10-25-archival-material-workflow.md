@@ -34,6 +34,21 @@ Where, and how, does this happen?
 
 This occurs in an increasingly substantial corner of our adminitrative middleware, [Ouroboros](https://github.com/WSULib/ouroboros), called the "Ingest Workspace".  This Ingest Workspace, the intent of this blog post and which I've managed to bury pretty far down here, is where we take these collaborative bits of information and assimilate them into sensible digital objects we can ingest.  It's the green box in the diagram above.
 
+This process has taken a considerable amount of time, as it's a complex process!  So much so, that wonderful folks at the [Bentley Historial Library](http://bentley.umich.edu/) [received a grant and to fund research into wiring these platforms together](http://archival-integration.blogspot.com/) to aid in these kind of ingest workflows (as you dig down, the details are different, but the end goals share many similarities - moreover, their blog and presentations at conferences have been a huge help for thinking through these processes).
+
+The difficult and complexity come, in large part, to reconciling **physical** and **intellectual** arangement of archival materials, or any materials for that matter.  A quick and dirty example: a postcard from a friend is in a shoebox, in a drawer, in my desk.  That is the stellar physical arrangement I have chosen.  However, I may have it intellectually organized under *meaningful materials --> postcards --> international*.  And that's an easy example where the hierarchical levels align.  How, then, might we digitize this item and provide access to a user, while also trying to contextualize the item within its intellectual and physical place?
+
+We decided to drop one: **physical**.  I should point out here that even within the "physical" hierarchy, we are actually often referring to **digital** and **analog** versions of the resource.  The Reuther library has made the *very* wise choice of organizing their digital files where possible to mimick their physical hierarchy, which makes this considerably easier.  But suffice it to say that we retain both, in form or another, such that we can work backwards and figure out where the original digital or analog version lives.
+
+To wrap up, we are choosing to organize and contextualize the files primarily from their intellectual arrangement
+
+
+
+
+
+
+
+
 
 
 
