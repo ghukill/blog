@@ -19,4 +19,19 @@ We are using Archivematica as means to get actual, discrete digital files from t
 
 The next dish in the cupboard is **ArchivesSpace**.  ArchivesSpace, save a lengthy and highly passionate and opinionated rant here, is the next generation of archival software to handle description, management of information around materials, discovery, and much more.  Our partner in crime, the Reuther Library, is slowly switching to ASpace to handle their description and information management.  It is a database driven application, that still also exports finding aids for archival collections in EAD.  We'll be using those, with plans to leverage the API once deploymente has settled down a bit.
 
+Our involvement with ArchivesSpace is limited primarily to our metadata librarian who takes a manifest of the files as processed by Archivematica, an EAD of descriptive and intellectual organization metadata about the collection as exported from ArchivesSpace, and **creates a new METS file meant to enrich / augment the original Archivematica METS file**. 
+
+Whew!
+
+I've perhaps nestled myself too deeply in the weeds here, so lets zoom out.  We...
+1. take files from the archives via Archivematica
+2. these come with an AM generated METS file that represents the "physical" hierarchy and organzization of the digital files on disk
+3. we then take an EAD from ArchivesSpace that contains "intellectual" hierarchy and description about the materials, and synthesize a new METS file that represents the intellectual organization of the files - something we refer to as "AEM METS", for "Archival Enrichment Metadata (AEM)"
+4. with the original digital files, AM METS, and AEM METS, we create bags on disk
+5. finally, ingest!
+
+Where, and how, does this happen?
+
+This occurs in an increasingly substantial corner of our adminitrative middleware, [Ouroboros](https://github.com/WSULib/ouroboros), called the "Ingest Workspace".  This Ingest Workspace, the intent of this blog post and which I've managed to bury pretty far down here, is where we take these 
+
 
