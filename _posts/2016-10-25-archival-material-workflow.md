@@ -42,7 +42,7 @@ The difficult and complexity come, in large part, to reconciling **physical** an
 
 We decided to drop one: **physical**.  I should point out here that even within the "physical" hierarchy, we are actually often referring to **digital** and **analog** versions of the resource.  The Reuther library has made the *very* wise choice of organizing their digital files where possible to mimick their physical hierarchy, which makes this considerably easier.  But suffice it to say that we retain both, in form or another, such that we can work backwards and figure out where the original digital or analog version lives.
 
-To wrap up, we are choosing to organize and contextualize the files primarily based on their intellectual arrangement as suggested by ArchivesSpace.  Which, in fine fashion to finish, explains the need to interwine information from Archivematica *and* ArchivesSpace!  This post comes on the heels of an early successful ingest of this workflow, expecting all kinds of interesting twists and turns as we proceed -- newly digitized materials, updates to metadata, pointing back to ArchivesSpace (which we have in our back pocket with ASPace identifiers), etc.
+To wrap up, we are choosing to organize and contextualize the files primarily based on their **intellectual** arrangement as suggested by ArchivesSpace.  Which, in fine fashion to finish, explains the need to interwine information from Archivematica *and* ArchivesSpace!  This post comes on the heels of an early successful ingest of this workflow, expecting all kinds of interesting twists and turns as we proceed -- newly digitized materials, updates to metadata, pointing back to ArchivesSpace (which we have in our back pocket with ASPace identifiers), etc.
 
 
 
