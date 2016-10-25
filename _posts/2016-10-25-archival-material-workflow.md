@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 ## Archival Material Ingest Workflow
 
