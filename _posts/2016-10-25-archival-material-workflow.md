@@ -18,13 +18,14 @@ But we were realistic from the get-go, it was going to be a much larger enterpri
 
 We are using Archivematica as means to get actual, discrete digital files from the Reuther into a format that we can batch process them for ingest.  Additionally, we get all the preservation friendly treatment from the micro-services, and begin a paper trail of metadata about the file's journey.  It's quite possible we'll dig deeper into affordances and functionality of AM (it's time to shorten), but for now, it's primarily a virus checking, checksumming, METS writing, server/building spanning networked pipeline for us.  And it's going to be great!
 
-The next dish in the cupboard is **ArchivesSpace**.  ArchivesSpace, save a passionate and exploration here of just what ASpace is and represents, it's safe to think of it as the next generation of archival software used to handle description, management of information around materials, discovery, and much more.  Our partner in crime, the Reuther Library, is slowly switching to ASpace to handle their description and information management.  It is a database driven application, that still also exports finding aids for archival collections in EAD.  We'll be using those, with plans to leverage the API once deploymente has settled down a bit.
+The next dish in the cupboard is **ArchivesSpace**.  ArchivesSpace, save a passionate and exploration here of just what ASpace is and represents, it's safe to think of it as the next generation of archival software used to handle description, management of information around materials, discovery, and much more.  Our partner in crime, the Reuther Library, is slowly switching to ASpace to handle their description and information management.  It is a database driven application, that still also exports finding aids for archival collections in EAD.  We'll be using those, with plans to leverage the API once deployment has settled down a bit.
 
 Our involvement with ArchivesSpace is limited primarily to our metadata librarian who takes a manifest of the files as processed by Archivematica, an EAD of descriptive and intellectual organization metadata about the collection as exported from ArchivesSpace, and **creates a new METS file meant to enrich / augment the original Archivematica METS file**. 
 
 Whew!
 
 I've perhaps nestled myself too deeply in the weeds here, so lets zoom out.  We...
+
 1. take files from the archives via Archivematica
 2. these come with an AM generated METS file that represents the "physical" hierarchy and organzization of the digital files on disk
 3. we then take an EAD from ArchivesSpace that contains "intellectual" hierarchy and description about the materials, and synthesize a new METS file that represents the intellectual organization of the files - something we refer to as "AEM METS", for "Archival Enrichment Metadata (AEM)"
