@@ -35,7 +35,7 @@ For a combination of reasons.
 
 First, **PHP is a language commonly used here in the libraries**.  More people know it now, and though you could debate this a bit, it's probable that anyone coming in later will at least be familiar with PHP.  Perhaps you could say the same about Python, but **as long as the website is PHP based, we'll have people "in shop" who know PHP**.  Perhaps the same can't be said for Python.  And that's important.
 
-Second, **we would like to keep front-end and back-end cleanly separated**.  At our initial wireframing meeting, the individual creating a working wireframe leveraging our quirky and undocumented API.  That was amazing!  And it reinforced the idea that **treating our collections as data**, maybe even first and foremost.  Front-ends will come and go, amaze and disgust, but our underlying, highly-organized digital objects will remain.  An organized API for access to those materials means a multitude of front-end interfaces are possible, migration down the road is easier, and it opens up access to all kinds of different.
+Second, **we would like to keep front-end and back-end cleanly separated**.  At our initial wireframing meeting, the individual creating a working wireframe leveraging our quirky and undocumented API.  That was amazing!  And it reinforced the idea that **treating our collections as data**, maybe even first and foremost.  Front-ends will come and go, amaze and disgust, but our underlying, highly-organized digital objects will remain.  An organized API for access to those materials means a multitude of front-end interfaces are possible, migration down the road is easier, and it opens up access to all kinds of ...
 
 
 
