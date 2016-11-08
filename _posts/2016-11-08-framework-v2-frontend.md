@@ -24,11 +24,11 @@ But its time has come.  As we push into more digital objects, we've started to n
 
 The visual style is also feeling a bit dated, or perhaps if but only stale.  It needs a refresh there too.  
 
-And there was the *very* important issue of sustainability.  We knew the ins and outs of the JS code, but it wasn't easy, and near impossible to document in a lucid fashion.
+And there was the important issue of sustainability.  We know the ins and outs of the JS code, but thar be dragons thar, and feels near impossible to document in a lucid fashion.
 
-So, the time was right.  We have at our disposal someone who is going to put together front-end wireframes that we can use to wire up and implement.  The next big decision: **what kind of organization and/or framework for the front-end?**
+So, the time is right.  We have at our disposal someone who is going to put together front-end wireframes that we can use to wire and implement.  The next big decision: **what kind of organization and/or framework for the front-end?**
 
-We spent a bit of time going round and round, discussing the pros and cons of emerging JS, Python, and other frameworks.  It is worth noting, all being simulataneously congnizant that we may migrate to a more turn-key solution down the road, if projects like Hydra-in-a-Box provide a truly whole-kit-and-kaboodle option.  Another goal, briefly alluded to, is sustainability in a front-end; something that can be worked on, improved, fixed, and loved for some time.
+We spent a bit of time going round and round, discussing the pros and cons of emerging JS, Python, and other frameworks.  It is worth noting, all while simulataneously congnizant that we may migrate to a more turn-key solution down the road, if projects like [Hydra-in-a-Box](http://hydrainabox.projecthydra.org/) provide a truly, and palatable kit-and-kaboodle option.  Another goal, briefly alluded to above, is sustainability in a front-end; something that can be worked on, improved, fixed, and loved for some time.
 
 I can't believe I'm typing this, but **we are starting to hone in on using a PHP framework**.  Considering [Slim](http://www.slimframework.com/) and [Lumen](https://lumen.laravel.com/) at this point.  Why a PHP framework?  Why not Flask to augment the other python components in the stack?
 
