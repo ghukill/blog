@@ -35,7 +35,20 @@ For a combination of reasons.
 
 First, **PHP is a language commonly used here in the libraries**.  More people know it now, and though you could debate this a bit, it's probable that anyone coming in later will at least be familiar with PHP.  Perhaps you could say the same about Python, but **as long as the website is PHP based, we'll have people "in shop" who know PHP**.  Perhaps the same can't be said for Python.  And that's important.
 
-Second, **we would like to keep front-end and back-end cleanly separated**.  At our initial wireframing meeting, the individual creating a working wireframe leveraging our quirky and undocumented API.  That was amazing!  And it reinforced the idea that **treating our collections as data**, maybe even first and foremost.  Front-ends will come and go, amaze and disgust, but our underlying, highly-organized digital objects will remain.  An organized API for access to those materials means a multitude of front-end interfaces are possible, migration down the road is easier, and it opens up access to all kinds of ...
+Second, **we would like to keep front-end and back-end cleanly separated**.  At our initial wireframing meeting, the individual creating a working wireframe leveraged our quirky and undocumented API and created a working demo.  That was amazing.  It reinforced the idea of **treating our collections as data**, maybe even first and foremost.  Front-ends will come and go, amaze and disgust, but our underlying, structured digital objects will remain.  An organized API for access to those materials means a multitude of front-end interfaces are possible, and migration down the road is easier.  
+
+We also know ourselves well enough that if we created a python-based, Flask front-end, we would inevitably start importing libraries and models directly from the back-end Ouroboros ecosystem.  While this may be programatically efficient in some ways, maybe faster in others, it would muddle clean lines between our back and front ends that we would like to maintain.
+
+And so, PHP is looking good.  We still get the following from a PHP framework:
+
+* URL routing: as easy to return machine-readable data as rendered pages
+* built-in templating: likely with syntax nearly identical to Jinja in Flask
+* models: make a nice connection between front-end models and API
+* ORM: room to grow into user accounts, etc.
+* conventions to organize our code
+* and many more these tired fingers haven't yet gotten to
+
+Undoubtedly there will be updates and twists in this adventure to a new front-end -- no little one, being a complete rewrite of our digital collections API -- but it's exciting to have a path to explore at this point.
 
 
 
