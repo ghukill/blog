@@ -4,6 +4,8 @@ layout: post
 ---
 ## Choosing a framework for our v2 Digital Collections front-end
 
+![https://digital.library.wayne.edu/digitalcollections/item?id=wayne:vmc3024](https://digital.library.wayne.edu/loris/fedora:wayne:vmc3024%7Cvmc3024_JP2/full/full/0/default.jpg) [https://digital.library.wayne.edu/digitalcollections/item?id=wayne:vmc3024](https://digital.library.wayne.edu/digitalcollections/item?id=wayne:vmc3024)
+
 We are currently in the midsts of refreshing our [Digital Collections front-end](https://digital.library.wayne.edu/digitalcollections/).  It has been a workhorse for us, still functions, and still looks respectable, but the foundation is beginning to crack as we push the original design and corners of spaghetti code beyond their original visions.
 
 The front-end was visually imagined back in 2012-2013.  At the time, our "back-end" consisted of nothing more than raw Solr endpoints and some hacked together scripts that returned more complex queries from Fedora Commons, specifically for RDF queries.  Javascript grew in the front-end like weeds, with functions and files springing up whenever new functionality was introduced:
@@ -36,7 +38,7 @@ For a combination of reasons.
 
 First, **PHP is a language commonly used here in the libraries**.  More people know it now, and though you could debate this a bit, it's probable that anyone coming in later will at least be familiar with PHP.  Perhaps you could say the same about Python, but **as long as the website is PHP based, we'll have people "in shop" who know PHP**.  Perhaps the same can't be said for Python.  And that's important.
 
-Second, **we would like to keep front-end and back-end cleanly separated**.  At our initial wireframing meeting, the individual creating a working wireframe leveraged our quirky and undocumented API and created a working demo.  That was amazing.  It reinforced the idea of **treating our collections as data**, maybe even first and foremost.  Front-ends will come and go, amaze and disgust, but our underlying, structured digital objects will remain.  An organized API for access to those materials means a multitude of front-end interfaces are possible, and migration down the road is easier.  
+Second, **we would like to keep front-end and back-end cleanly separated**.  At our initial wireframing meeting, the individual creating a working wireframe leveraged our quirky and undocumented API and created a working demo.  That was amazing.  It reinforced the idea of **[treating our collections as data](http://digitalpreservation.gov/meetings/dcs16.html)**, maybe even first and foremost.  Front-ends will come and go, amaze and disgust, but our underlying, structured digital objects will remain.  An organized API for access to those materials means a multitude of front-end interfaces are possible, and migration down the road is easier.  
 
 We also know ourselves well enough that if we created a python-based, Flask front-end, we would inevitably start importing libraries and models directly from the back-end Ouroboros ecosystem.  While this may be programatically efficient in some ways, maybe faster in others, it would muddle clean lines between our back and front ends that we would like to maintain.
 
