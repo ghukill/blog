@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+layout: post
 ---
 ## Choosing a framework for our v2 Digital Collections front-end
 
