@@ -7,4 +7,4 @@ In the shuffle, however, I lost a blog I was most fond of, a simple "Word of the
 
 ## Ribald
 
-
+The impetus for blogging about this word can be traced back to a recent trip to Denton, TX to visit an old friend.  While there, we saw the legendary performer Paul Slavens perform.  He takes money from the audience and makes up songs on the spot based on song titles or themes they scribble on bar napkins.
