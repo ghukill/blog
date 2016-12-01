@@ -49,6 +49,8 @@ It reminds me of work we're doing with objects in digital repositories.  There i
 
 Much like words; those great and wonderful puzzles.
 
+ps. all typos and mis-spellings are my own, no editing has been performed.
+
 
 
 
