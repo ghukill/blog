@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I long ago, and far away, had a thousand other blogs, all lost to the sands of time on the internet.  Well, not lost per say, more abandoned as I realized I would not be able to faithfully shepard them along the winding roads of internet time.  My goal was to consolidate here, hunkering down in the welcoming leaves of markdown and GitHub.
 
