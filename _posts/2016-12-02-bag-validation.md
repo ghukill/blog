@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 ![bag_validation.png]({{site.baseurl}}/assets/images/bag_validation.png)
