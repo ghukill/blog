@@ -1,7 +1,6 @@
 ---
-published: true
+published: false
 layout: post
-publish: false
 ---
 ## Part 2: Strange Attractors and uncertainty
 
