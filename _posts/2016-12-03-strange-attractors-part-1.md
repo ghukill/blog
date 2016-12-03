@@ -34,4 +34,4 @@ And here is what he graphed:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5b/Lorenz_attractor_yb.svg)
 
-The hands grow cold, the coffee cup has tipped past halfway.  Where are we in this discussion?  Those dark spots in the graph above, *those* are the strange attractors we've danced around.  Why does this matter?  Why is interesting?  How is this related to coastlines, pebbles, brocoli, and eggs?  That, is fodder for [Part Two]({{site.url}}/blog/2016/12/03/strange-attractors-part-1.html).
+The hands grow cold, the coffee cup has tipped past halfway.  Where are we in this discussion?  Those dark spots in the graph above, *those* are the strange attractors we've danced around.  Why does this matter?  Why is interesting?  How is this related to coastlines, pebbles, brocoli, and eggs?  That, is fodder for [Part Two]({{site.url}}/blog/2016/12/03/strange-attractors-part-2.html).
