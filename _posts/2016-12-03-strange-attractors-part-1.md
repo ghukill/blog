@@ -4,7 +4,7 @@ layout: post
 ---
 A post, in two parts.
 
-## Part 1: Strange Attractors, and their strangly attractive backstory
+## Part 1: Strange Attractors, and their strangely attractive backstory
 
 I recently had the pleasure of driving to Texas and back, and while on the road, partook in some podcasts.  One of them was called, ["Stuff You Should Know"](http://www.stuffyoushouldknow.com/podcasts), and dedicated an episode to [Chaos Theory](http://www.stuffyoushouldknow.com/podcasts/how-chaos-theory-changed-the-universe.htm).  They did an admirable job with a slippery idea, and while I took away some new insights, this topic was not new to me.
 
