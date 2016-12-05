@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![](https://digital.library.wayne.edu/item/wayne:vmc78617/thumbnail/)
 
