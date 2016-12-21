@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 I am following a thread on the [IIIF](http://iiif.io/) [Google group forum](https://groups.google.com/forum/#!forum/iiif-discuss), ruminating on how IIIF and the Image API might support more advanced image processing.  I am probably mis-characterizing, or reading too much into the conversation a bit, but something interesting to me emerged from some of the early comments.
