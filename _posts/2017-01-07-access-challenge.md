@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![]({{site.baseurl}}/https://digital.library.wayne.edu/loris/fedora:wayne:UniversityBuildings25708%7CUniversityBuildings_25708_JP2/full/full/0/default.jpg)
+![](https://digital.library.wayne.edu/loris/fedora:wayne:UniversityBuildings25708%7CUniversityBuildings_25708_JP2/full/full/0/default.jpg)
 
 Stumbld on an interesting access challenge for our Digital Collections today.
 
