@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 In everything gloriously complex, it can be difficult to ascertain when you've reached a level of understanding that might merit debrief and reflection.  In my forays into machine learning, this is probably as good a point as any.
 
