@@ -41,6 +41,11 @@ Google Advanced Search
 
 Advanced Search from the lovely [University of North Texas (UNT) Digital Library](https://digital.library.unt.edu/) (whom I turn to often for inspiration and sanity checks, thanks UNT!).
 
+I, and I'm sure anyone even tangentially involved in the library, archives, and information realm, could write a small novella on the evolution and state of online search interfaces.  They are as important to us as the tensile strength of fishing line for deep sea fishers, the Tin / Lead ratio to stained glass makers, the fat / acid ratios for cooks, and so on and so forth.  However, given the myriad of insight and perspectives around search interfaces, it's hard to ignore that **facets** have taken on a prominent role in search interfaces.  Think of Amazon, eBay, and the list goes on.  Facets are incredibly powerful, and have changed some thinking on search.  **Instead of high-powered, laser-focused boolean searches, we are looking more to iterative refinement in our searching.**
+
+For the most part, I think this is a good thing.  I'm a big fan of doing 10-20 searches in what-interface-have-you, mentally sifting and collating what you learned, rinse and repeat.  As compared to toiling and banging your head over a perfect set of logical operators what will reveal your images of [booze running from Canada to Detroit in the 1920's](https://digital.library.wayne.edu/digitalcollections/search.php?q=booze&fq[]=rels_isMemberOfCollection:%22info:fedora/wayne:collectionvmc%22&start=0).  
+
+But advanced search has a place, particulary when new and interesting search options that hinge on things like community-generated metadata, or machine learned topics are nigh at our disposal.
 
 
     
