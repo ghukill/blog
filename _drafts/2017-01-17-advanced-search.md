@@ -11,5 +11,13 @@ Take Google for example.  With keywords, you can define quite particular searche
 
 Search only websites on `digital.library.wayne.edu`:
 
-```site:digital.library.wayne.edu winter czar```
+    site:digital.library.wayne.edu winter czar
+
+Or even limiting words:
+
+    seattle -"space needle"
+    
+But many users don't know these little tricks.  Since the dawn of online search interfaces, there have often been accompanying "advanced search" interfaces that provide a handful of boxes and inputs that users can use to refine their search.
+
+    
 
