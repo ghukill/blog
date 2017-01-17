@@ -19,6 +19,8 @@ Or even limiting words:
     
 But many users don't know these little tricks.  Since the dawn of online search interfaces, there have often been accompanying "advanced search" interfaces that provide a handful of boxes and inputs that users can use to refine their search.  Our own [library catalog](http://elibrary.wayne.edu/search/X) is a nice example:
 
+![Screen Shot 2017-01-17 at 2.09.05 PM.png]({{site.baseurl}}/assets/images/Screen Shot 2017-01-17 at 2.09.05 PM.png)
+
 
 
     
