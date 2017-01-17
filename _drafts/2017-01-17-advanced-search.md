@@ -21,11 +21,25 @@ But many users don't know these little tricks.  Since the dawn of online search 
 
 ![Screen Shot 2017-01-17 at 2.09.05 PM.png]({{site.baseurl}}/assets/images/Screen Shot 2017-01-17 at 2.09.05 PM.png)
 
-But as I started to dig into what other advanced search interfaces looked like for digital collections or archives, I started to notice a trend.  Something I'm referring to as the **mighty three** in my internal running monologue.  They are variations on the following four "advanced" search options:
+But as I started to dig into what other advanced search interfaces looked like for digital collections or archives, I started to notice a trend.  Something I'm referring to as the **mighty four** in my internal running monologue.  They are variations on the following four "advanced" search options:
 
 * all / any these words
 * this exact word or phrase
 * none of these words
+
+Some will differentiate between **all** and **any**, some do not (yet in my simple mind, they still get the **mighty four** moniker).  But they share a likeness I hadn't really stopped to consider until this undertaking today.  Here are some examples:
+
+![Screen Shot 2017-01-17 at 1.58.00 PM.png]({{site.baseurl}}/assets/images/Screen Shot 2017-01-17 at 1.58.00 PM.png)
+
+Google Books
+
+![Screen Shot 2017-01-17 at 1.58.21 PM.png]({{site.baseurl}}/assets/images/Screen Shot 2017-01-17 at 1.58.21 PM.png)
+
+Google Advanced Search
+
+![Screen Shot 2017-01-17 at 1.58.30 PM.png]({{site.baseurl}}/assets/images/Screen Shot 2017-01-17 at 1.58.30 PM.png)
+
+Advanced Search from the lovely [University of North Texas (UNT) Digital Library](https://digital.library.unt.edu/) (whom I turn to often for inspiration and sanity checks, thanks UNT!).
 
 
 
