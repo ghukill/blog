@@ -21,6 +21,12 @@ But many users don't know these little tricks.  Since the dawn of online search 
 
 ![Screen Shot 2017-01-17 at 2.09.05 PM.png]({{site.baseurl}}/assets/images/Screen Shot 2017-01-17 at 2.09.05 PM.png)
 
+But as I started to dig into what other advanced search interfaces looked like for digital collections or archives, I started to notice a trend.  Something I'm referring to as the **mighty three** in my internal running monologue.  They are variations on the following four "advanced" search options:
+
+* all / any these words
+* this exact word or phrase
+* none of these words
+
 
 
     
