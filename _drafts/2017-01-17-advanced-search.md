@@ -15,9 +15,11 @@ Search only websites on `digital.library.wayne.edu`:
 
 Or even limiting words:
 
-    seattle -"space needle"
+    seattle -space needle
     
-But many users don't know these little tricks.  Since the dawn of online search interfaces, there have often been accompanying "advanced search" interfaces that provide a handful of boxes and inputs that users can use to refine their search.
+But many users don't know these little tricks.  Since the dawn of online search interfaces, there have often been accompanying "advanced search" interfaces that provide a handful of boxes and inputs that users can use to refine their search.  Our own [library catalog](http://elibrary.wayne.edu/search/X) is a nice example:
+
+
 
     
 
