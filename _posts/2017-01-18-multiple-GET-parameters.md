@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 An interesting aside about GET parameters, particularly of the multiple variety.
 
