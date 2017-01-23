@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Re: the last couple of posts about repeating GET parameters, and how PHP is slightly unconventional in how it parses.  Came up with a solution: a `QueryBuilder` class.
 
