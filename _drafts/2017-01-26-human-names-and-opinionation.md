@@ -122,3 +122,34 @@ info:fedora/wayne:collectionvmc
 "Virtual Motor City"
 ```
 
+No shame here, we were running a tight ship, and the overhead of that API call was small, as it was cached by Varnish on the back-end.  But we wanted to improve this process.  In addition to unnecessary API calls, it also required using that hash on the front-end to "translate" all values from the API response, in multiple places for a single page load.
+
+There were two major things that needed translation:
+
+1. A human legible name for facets, such as `info:fedora/CM:Image` --> `Image`
+2. A human title for related objects, such as converting `info:fedora/wayne:collectionvmc` --> `Virtual Motor City`
+
+For our v2 platform, we're splitting up these concerns.
+
+The facets are small, and mostly unchanging, so for those we are creating a static hash that is embedded in PHP, front-end framework.  That hash is used uniformally, and easily, across the system for translating facet names.  
+
+The more difficult concern was how to get human names from object identifiers when those come through in the facet results from Solr.  The solution was to grab our spoons and dig backwards into the indexing process, and at the time of indexing, include a "human" form of the relationship.  So where a Solr record formerly only had a `rels_isMemberOfCollection:info:fedora/wayne:collectionvmc` field/value, it now also contains a `human_isMemberOfCollection:Virtual Motor City` field/value as well.  This means, our native Solr response is returning both `rels_*` and `human_*` facets, which are easily cherry-picked on the front-end.  As a matter of efficiency, when records are indexed, a hash similar to the one outlined above is queried from Solr, but is then used across a batch-indexing job, sometimes thousands of records.
+
+![human_hash.jpg]({{site.baseurl}}/assets/images/human_hash.jpg)
+
+With lots of moving parts _and_ control over those parts, it can be paralyzing sometimes to know what to change, and the ramifications downstream.  But sometimes a piece of paper and pencil is the best bet for sketching out a new path forward.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
