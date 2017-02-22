@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 That moment, when posited ideas and hairbrained schemes begin to coalesce into a workable plan.  That happened this morning after a few days of thinking and conferring about ways to update how we index digital objects from Fedora into Solr.
 
@@ -20,6 +20,3 @@ Very excited to have a more rational and well-mapped approach.  And you can tell
 ALSO, that prefix "man" in "manual", I'm not a fan.  Looking up the etymology of "manual" in the Oxford English Dictionary (OED) begins to suggest that the word has origins in "manuālis" (roughly, held in the hand), which points back further to "manus" (relating to "the hand", but also to Roman law, "A form of power or authority, principally involving control over property, held in some instances by a husband over his wife; a form of marriage contract giving a husband such authority.").
 
 Time to find a better word.
-
-
-
