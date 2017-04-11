@@ -1,3 +1,6 @@
+---
+published: true
+---
 I realized today while putting together some thoughts for class, that learning / memorizing a single standard is useful, but learning **how** to learn standards, is so much more valuable.
 
 We have covered [MARC](https://www.loc.gov/marc/) and [EAD](http://www.loc.gov/ead/), [DACS](http://www2.archivists.org/groups/technical-subcommittee-on-describing-archives-a-content-standard-dacs/dacs), [ISAD(G)](http://www.icacds.org.uk/eng/ISAD\(G\).pdf), and the list goes on.  Obviously, each of these is critically important and uniquely interesting in their own right, but they do not lend themselves to a linear read.  Standards encapuslate everything from history, to why, to how, to specific rules, to integration with other standards.  Each standard is a complex network of information with muliptle inroads, and cannot be treated as a linear text to be read once and understood in its entirety.  Furthermore, standards may vary greatly from one to another.  Some may explain tag libraries for EAD based standards, others might attempt to codify norms of behavior or philosophies of a body into workflows and decision trees.
