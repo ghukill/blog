@@ -17,4 +17,12 @@ Okay, I realize this isn't how coat checks work, but a little bit of dramatizati
 
 My coat is no longer my coat, it is now coat "13".  And it floats listlessly in the sea of coats they have squirreled away.  The only lifeline that the coat has with me, with identity outside of its vapid existence as "coat in coat closet", is the number "13" and the *infradata* that accompanies it.  "13" is the identifier of my *infradata* record, a record which details the precise, and current, location and state of my coat.  Without this bit of information, it's as good as lost.  Without this bit of information, the infrastructure has met its entropic end.  
 
-***To follow up on:** *infradata* or *metadata* as cooling agent in information system imagined as thermodynamic system.*
+**To follow up on:** *infradata* or *metadata* as cooling agent in information system imagined as thermodynamic system, staving entropy and the homogenization of uniqueness in records.
+
+### Back to reality
+
+The original blog post was 79% of idea coagulation, the Fidley and Acker article pushing to 100%, but what laid the groundwork for 0% - 78%?  Months, years now, of thinking about the invisible forces of complex systems (infrastructures).
+
+Without perfect surrogates, I humbly submit the concept of *opinionation* as a related term to *infradata*.  Or, *infradata* as the instantiation of *opinionation*.
+
+And, [an article from Microsoft Research asking, "What is a File?"](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/MSR-TR-2011-109.pdf).  I must admit I haven't finished the article, but what I have read, it begins to prod the idea of a "file".  When I upload the file `cactus.jpg` to Google Drive, I am rewarded with a link to `cactus.jpg` in my Drive folder.  But where is that file?  There is not a single harddrive in California, with the directory structure `/Google/Drive/ghukill/images/` with my file there.  Oh no, cloud storage is distrubuted.  The file is moving.  The file is duplicated.  The file is versioned.
