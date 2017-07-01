@@ -25,4 +25,17 @@ The original blog post was 79% of idea coagulation, the Fidley and Acker article
 
 Without perfect surrogates, I humbly submit the concept of *opinionation* as a related term to *infradata*.  Or, *infradata* as the instantiation of *opinionation*.
 
-And, [an article from Microsoft Research asking, "What is a File?"](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/MSR-TR-2011-109.pdf).  I must admit I haven't finished the article, but what I have read, it begins to prod the idea of a "file".  When I upload the file `cactus.jpg` to Google Drive, I am rewarded with a link to `cactus.jpg` in my Drive folder.  But where is that file?  There is not a single harddrive in California, with the directory structure `/Google/Drive/ghukill/images/` with my file there.  Oh no, cloud storage is distrubuted.  The file is moving.  The file is duplicated.  The file is versioned.
+And, [an article from Microsoft Research asking, "What is a File?"](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/MSR-TR-2011-109.pdf).  I must admit I haven't finished the article, but what I have read, it begins to prod the idea of a "file".  When I upload the file `cactus.jpg` to Google Drive, I am rewarded with a link to `cactus.jpg` in my Drive folder.  But where is that file?  There is not a single harddrive in California, with the directory structure `/Google/Drive/ghukill/images/` with my file there.  Oh no, cloud storage is distrubuted.  The file is moving.  The file is duplicated.  The file is versioned.  The only way that Google can return the bytes from `cactus.jpg` when I request it, is by using some kind of `infradata` internal to their Drive infrastructure, but hovering above my `cactus.jpg` metadata that may contain descriptive information, exif data, etc.  
+
+And this is key: my *very* early understanding of the idea of *infradata* is that it is metadata that describes the **state** of an object *in situ*, but is not metadata that will accompany the object through various states and infrastructures.
+
+So what is this *opinionation* connection?  Going back to my coat check example, where is it codified that they will:
+
+  * create two tickets with the same identifier ("13"), keep one, and give me one?
+  * record the room and rack information on their ticket?
+  
+Perhaps it is not, but it's just *the way that things are done*.  That's a very dangerous phrase, and unforutnately, one that I think accompanies *opinionation* often.  These are loose connections I realize, they feel related.  *Infradata* is unique in that follows the *opinionation* of an infrastructure, valuable it and the infrastructure are expecting the same values, ephmeral because it is lost when the state of the object changes.  
+
+One question this begs: do we need to save *infradata*?  Is it enough just to understand that it temporarily exists to shephard an object through time and space?
+  
+  
