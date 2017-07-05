@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 What are the greatest perils of digital preservation?  
 
