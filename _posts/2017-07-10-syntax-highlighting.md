@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I learned today that Jekyll comes with some built-in syntax highlighting when firing through GitHub pages.  So, wanted to take er for a spin...
 
