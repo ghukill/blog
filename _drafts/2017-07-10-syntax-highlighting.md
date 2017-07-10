@@ -5,5 +5,8 @@ I learned today that Jekyll comes with some built-in syntax highlighting when fi
 
     def print_reaction(reaction):
         print(reaction)
+        
+    reaction = "This is amazing!"
+    print_reaction(reaction)
 
 I like what I'm seeing.
