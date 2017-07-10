@@ -1,0 +1,9 @@
+---
+published: false
+---
+I learned today that Jekyll comes with some built-in syntax highlighting when firing through GitHub pages.  So, wanted to take er for a spin...
+
+    def print_reaction(reaction):
+        print(reaction)
+
+I like what I'm seeing.
