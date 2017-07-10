@@ -17,6 +17,7 @@ github_username:  ghukill
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 # pagination
 paginate: 3
