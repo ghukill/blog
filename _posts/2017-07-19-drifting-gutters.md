@@ -12,3 +12,5 @@ For example, in a recent book, after some trial and error, it worked to begin cr
 ![]({{site.baseurl}}/assets/images/page_crop.png)
 
 The result, the properly cropped page on the left, the improperly cropped page on the right.  In this example, no text is cutoff from the improper crop, but one can imagine this problem *could* errantly crop text in pages if not accounted for, and *does* get worse over the course of large books.
+
+All kinds of improvements could be made, but it works in a pinch.
