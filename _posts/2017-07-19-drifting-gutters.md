@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 We've all been there: you've just digitzed a handful of gorgeous books, or equally likely, find yourself in possession of a thousand images, but the digitization resulted in opposing pages as a single image file.  You'd like to ingest these books into your stunning repository and front-end with each page as a seperate image file.  Split each page 50/50 vertically?  Piece of cake?
 
