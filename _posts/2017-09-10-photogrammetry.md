@@ -22,4 +22,6 @@ My first photogrammetric project, a pair of 2+ year old Nikes with more miles th
 </p>
 </div>
 
-I am 100% confident that more of this will be taking place.  In fact, we are soon to meet with someone at Wayne State whom I understand to be doing this very thing for cultural artifacts.  Now, how do we preserve, and provide discovery and access for these beauties...
+It is clearly quite rough, but, this was 12 images, taken quickly, from my phone.  12 images.  From a phone.  In poor lighting.
+
+Undoubtedly, more to come.  Much, much more.  In fact, we are soon to meet with someone at Wayne State whom I understand to be doing this very thing for cultural artifacts.  Now, how do we preserve, and provide discovery and access for these beauties...
