@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2016-07-28 14:10:04 -0400
+title:  "Sigmoid Curves"
+date:   2017-10-21 12:00:00 -0400
 categories: general
 ---
 
