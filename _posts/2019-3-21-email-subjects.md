@@ -23,9 +23,9 @@ More along the lines of:
 
 But I hesitated on the subject line before sending: should it be capitalized?  lowercase?  more than just "thanks"?
 
-According to the [Internet Message Format, aka email](https://tools.ietf.org/html/rfc2822), apparently the `subject` field in an email is actually just a header.  And optional at that!  Not that this changes much, but we see it's just a string in a hash of headers.  
+According to the [Internet Message Format, aka email](https://tools.ietf.org/html/rfc2822) spec, apparently the `subject` field in an email is actually just a header.  And optional at that!  Not that this changes much, but we see it's just a string in a hash of headers.  
 
-From the Online Etymological Dictionary](https://www.etymonline.com/word/subject#etymonline_v_22245), we get the following entry:
+From the [Online Etymological Dictionary](https://www.etymonline.com/word/subject#etymonline_v_22245), we get the following entry:
 
 > subject (n.)
 > 
