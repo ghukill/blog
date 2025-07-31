@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 
 import frontmatter
+from jinja2 import Environment, FileSystemLoader, select_autoescape
 import markdown
 
 def markdown_to_html(filepath:str):
@@ -26,5 +27,14 @@ def convert_all_markdown_to_html(directory:str = "posts/markdown"):
     print("conversion complete")
 
 def build_index_html():
-    # TODO: let's use jinja!
-    print("index building not yet implemented")
+    posts = glob.glob("posts/html/*.html")
+
+    env = Environment(
+        loader=FileSystemLoader('templates'),
+        autoescape=select_autoescape(['html', 'xml'])
+    )
+    template = env.get_template('index.html')
+    html = template.render(posts=posts)
+
+    with open('index.html', 'w') as f:
+        f.write(html)
